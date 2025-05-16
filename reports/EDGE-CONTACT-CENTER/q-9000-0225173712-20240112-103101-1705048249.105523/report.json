@@ -1,0 +1,91 @@
+{
+  "summary": "- The agent began the call with a polite greeting and maintained a professional tone throughout the conversation.\n- The agent collected customer details, including the customer's name and mobile number, but was unable to accept a landline number.\n- The agent did not engage in upselling or suggest additional units, locations, or features.\n- The agent actively listened to the customer's concerns and provided relevant information about the availability of projects.\n- The agent did not use slang or informal language, maintaining a professional and respectful tone.\n- The agent offered additional useful information by explaining the registration process and how the customer would be contacted once bookings opened.\n- The agent closed the call politely, ensuring the customer had no further questions before ending the conversation.",
+  "scores": {
+    "Verification & Data Collection": "PASS",
+    "Effective Troubleshooting": "PASS",
+    "Professional Upselling": "FAIL",
+    "Greeting": "PASS",
+    "Closing": "PASS",
+    "ActiveListening": "PASS",
+    "VoiceTone": "PASS",
+    "PhoneEtiquette": "PASS",
+    "HandllingWay": "PASS",
+    "ExtraData": "PASS",
+    "Slangs": "PASS",
+    "General Inquiry": "PASS",
+    "Complaints": "N/A",
+    "Process": "PASS"
+  },
+  "feedback": {
+    "Verification & Data Collection": {
+      "score": "PASS",
+      "explanation": "The agent successfully collected essential customer details, such as the customer's name and mobile number, which are crucial for verification and data collection. Although the agent was unable to accept a landline number, this did not significantly impact the overall effectiveness of data collection. The agent maintained a professional tone, actively listened to the customer's concerns, and provided relevant information, which contributed to a positive customer experience.",
+      "suggestion": ""
+    },
+    "Effective Troubleshooting": {
+      "score": "PASS",
+      "explanation": "The agent effectively addressed the customer's concerns by actively listening and providing relevant information about project availability. They also offered additional useful information regarding the registration process and future contact, ensuring the customer had a clear understanding of the next steps. The agent maintained a professional tone throughout the call, contributing to a positive customer experience.",
+      "suggestion": ""
+    },
+    "Professional Upselling": {
+      "score": "FAIL",
+      "explanation": "The agent failed to engage in upselling or suggest any additional services, upgrades, or features, which is a key component of the Professional Upselling criterion.",
+      "suggestion": "The agent should proactively suggest relevant upgrades or additional services that could enhance the customer's experience, such as premium units, furnishing options, or more desirable locations. This can be done by understanding the customer's needs and matching them with suitable offerings."
+    },
+    "Greeting": {
+      "score": "PASS",
+      "explanation": "The agent received a PASS score because they began the call with a polite greeting and maintained a professional tone throughout the conversation. The agent demonstrated professionalism and warmth, which are key components of the greeting criterion.",
+      "suggestion": ""
+    },
+    "Closing": {
+      "score": "PASS",
+      "explanation": "The agent successfully closed the call on a polite and professional note by ensuring the customer had no further questions before ending the conversation. This demonstrates attentiveness and respect for the customer's needs.",
+      "suggestion": ""
+    },
+    "ActiveListening": {
+      "score": "PASS",
+      "explanation": "The agent received a PASS score for ActiveListening because they effectively acknowledged the customer's concerns, provided relevant information, and ensured the customer had no further questions before ending the call. The agent maintained a professional tone, actively listened, and offered additional useful information, demonstrating strong active listening skills.",
+      "suggestion": ""
+    },
+    "VoiceTone": {
+      "score": "PASS",
+      "explanation": "The agent maintained a friendly, confident, and appropriate tone throughout the call. They began with a polite greeting, actively listened, and provided relevant information without using slang or informal language. The agent also closed the call politely, ensuring the customer had no further questions.",
+      "suggestion": ""
+    },
+    "PhoneEtiquette": {
+      "score": "PASS",
+      "explanation": "The agent demonstrated excellent phone etiquette by maintaining a polite and professional tone throughout the call. They actively listened to the customer's concerns, provided relevant information, and ensured clear communication by avoiding slang or informal language. The agent also ensured the customer had no further questions before closing the call, which is indicative of good phone etiquette.",
+      "suggestion": ""
+    },
+    "HandllingWay": {
+      "score": "PASS",
+      "explanation": "The agent effectively handled the call by maintaining professionalism, actively listening to the customer's concerns, and providing relevant and useful information. The agent ensured that the customer was informed about the registration process and addressed all inquiries efficiently, which aligns with the criteria for handling inquiries effectively.",
+      "suggestion": ""
+    },
+    "ExtraData": {
+      "score": "PASS",
+      "explanation": "The agent successfully collected extra useful information by explaining the registration process and how the customer would be contacted once bookings opened, which goes beyond the basic customer inquiry.",
+      "suggestion": ""
+    },
+    "Slangs": {
+      "score": "PASS",
+      "explanation": "The agent maintained a professional tone throughout the conversation and did not use any inappropriate slang or overly casual language, which aligns with the criterion requirements.",
+      "suggestion": ""
+    },
+    "General Inquiry": {
+      "score": "PASS",
+      "explanation": "The agent effectively addressed the general inquiries by providing relevant information about project availability and explaining the registration process. The agent maintained professionalism throughout the call, actively listened to the customer's concerns, and ensured all questions were answered before concluding the conversation.",
+      "suggestion": ""
+    },
+    "Complaints": {
+      "score": "N/A",
+      "explanation": "The score is N/A because there were no complaints mentioned during the call that required resolution. The agent's behavior was evaluated based on other aspects of the call, such as professionalism and information delivery, but since no complaints were present, the criterion for complaints does not apply.",
+      "suggestion": ""
+    },
+    "Process": {
+      "score": "PASS",
+      "explanation": "The agent followed proper procedures by maintaining a professional tone, collecting necessary customer details, actively listening to the customer's concerns, and providing relevant information. The agent also ensured the customer understood the registration process and closed the call politely.",
+      "suggestion": ""
+    }
+  }
+}

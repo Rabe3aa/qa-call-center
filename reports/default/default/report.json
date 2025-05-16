@@ -1,0 +1,91 @@
+{
+  "summary": "\n1. The agent collected customer details by asking for the customer's name and location.\n2. The agent did not explicitly offer upselling or suggest additional units, locations, or features beyond what the customer inquired about.\n3. The agent greeted the caller politely and closed the call professionally.\n4. The agent maintained a professional, friendly, and confident tone throughout the call.\n5. The agent actively listened and engaged with the customer's concerns, providing detailed information about the available properties.\n6. The agent did not use slang or informal words during the conversation.\n7. The agent offered additional useful information, such as property details, pricing, payment plans, and office location and hours.",
+  "scores": {
+    "Verification & Data Collection": "PASS",
+    "Effective Troubleshooting": "PASS",
+    "Professional Upselling": "FAIL",
+    "Greeting": "PASS",
+    "Closing": "PASS",
+    "ActiveListening": "PASS",
+    "VoiceTone": "PASS",
+    "PhoneEtiquette": "PASS",
+    "HandllingWay": "PASS",
+    "ExtraData": "FAIL",
+    "Slangs": "PASS",
+    "General Inquiry": "PASS",
+    "Complaints": "N/A",
+    "Process": "PASS"
+  },
+  "feedback": {
+    "Verification & Data Collection": {
+      "score": "PASS",
+      "explanation": "The agent successfully collected and confirmed customer details, including the customer's name and location, which meets the criterion for Verification & Data Collection. The agent maintained professionalism and provided comprehensive information, ensuring the customer's needs were addressed.",
+      "suggestion": ""
+    },
+    "Effective Troubleshooting": {
+      "score": "PASS",
+      "explanation": "The agent effectively resolved the customer's inquiries by providing detailed information about the available properties, including pricing, payment plans, and office details. The agent also maintained a professional demeanor and actively listened to the customer's concerns, ensuring a comprehensive and satisfactory interaction.",
+      "suggestion": ""
+    },
+    "Professional Upselling": {
+      "score": "FAIL",
+      "explanation": "The score was given because the agent did not engage in upselling or suggest any relevant upgrades or additional services during the call. While the agent provided comprehensive information about the properties and maintained professionalism, they missed opportunities to promote premium units or additional features that could enhance the customer's experience or meet potential needs.",
+      "suggestion": "To improve, the agent should actively look for opportunities to suggest relevant upgrades or additional services. This could include mentioning premium units, highlighting special features, or offering furnishing options that align with the customer's interests or needs. Training on identifying cues for upselling and integrating these suggestions naturally into the conversation could be beneficial."
+    },
+    "Greeting": {
+      "score": "PASS",
+      "explanation": "The agent greeted the caller politely and maintained a professional and friendly tone throughout the call, which aligns with the criterion of greeting the caller warmly and professionally.",
+      "suggestion": ""
+    },
+    "Closing": {
+      "score": "PASS",
+      "explanation": "The agent successfully closed the call on a polite and professional note, as evidenced by their professional demeanor, polite greeting, and professional closure. The agent maintained a friendly and confident tone throughout the call, which contributed to a positive customer experience.",
+      "suggestion": ""
+    },
+    "ActiveListening": {
+      "score": "PASS",
+      "explanation": "The agent demonstrated active listening by engaging with the customer's concerns, asking relevant questions, and providing detailed information about the properties. The agent also maintained a professional tone and offered additional useful information, which indicates that the agent acknowledged and addressed the caller's needs effectively.",
+      "suggestion": ""
+    },
+    "VoiceTone": {
+      "score": "PASS",
+      "explanation": "The agent maintained a professional, friendly, and confident tone throughout the call, which aligns with the criterion for VoiceTone. The agent's tone was appropriate for the context, and they engaged effectively with the customer.",
+      "suggestion": ""
+    },
+    "PhoneEtiquette": {
+      "score": "PASS",
+      "explanation": "The agent demonstrated excellent phone etiquette by maintaining a polite and professional demeanor throughout the call. They avoided interruptions, actively listened to the customer's concerns, and provided clear and detailed information. The agent also greeted the caller politely and closed the call professionally, ensuring a positive customer experience.",
+      "suggestion": ""
+    },
+    "HandllingWay": {
+      "score": "PASS",
+      "explanation": "The agent effectively addressed and resolved the customer's inquiries by collecting necessary details, providing comprehensive information about properties, and maintaining a professional demeanor throughout the call. The agent's ability to actively listen and engage with the customer's concerns contributed to efficient handling of the inquiry.",
+      "suggestion": ""
+    },
+    "ExtraData": {
+      "score": "FAIL",
+      "explanation": "The agent failed to collect extra useful information beyond the customer's initial request. While the agent provided detailed information about the properties and related services, they did not gather additional insights or data that could be beneficial for future interactions or enhance the customer's experience, such as understanding the customer's preferences, future needs, or potential interest in other services.",
+      "suggestion": "To improve, the agent should focus on gathering more comprehensive information about the customer's preferences and potential future needs. This could include asking about the customer's long-term plans, interest in other types of properties, or any additional services they might find useful. This approach can help in offering more tailored solutions and potentially upselling in future interactions."
+    },
+    "Slangs": {
+      "score": "PASS",
+      "explanation": "The agent received a PASS score because they maintained a professional tone and did not use any inappropriate slang or overly casual language during the call. The agent's communication was clear, formal, and appropriate for a call center setting.",
+      "suggestion": ""
+    },
+    "General Inquiry": {
+      "score": "PASS",
+      "explanation": "The agent effectively addressed general inquiries about residential units by actively listening to the customer's concerns and providing detailed information about available properties, pricing, payment plans, and office location and hours. The agent maintained a professional and friendly tone, greeted the caller politely, and closed the call professionally, which contributed to a positive customer experience.",
+      "suggestion": ""
+    },
+    "Complaints": {
+      "score": "N/A",
+      "explanation": "The score is N/A because there were no complaints mentioned during the call that required resolution. The criterion specifically evaluates the resolution of complaints, and since there were none, the score is not applicable.",
+      "suggestion": ""
+    },
+    "Process": {
+      "score": "PASS",
+      "explanation": "The agent followed the proper procedures by collecting necessary customer details, maintaining professionalism, actively listening, and providing comprehensive information relevant to the customer's inquiries. The agent also adhered to the call center's communication standards by avoiding slang and ensuring a polite and professional interaction.",
+      "suggestion": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "Verification & Data Collection": "Includes confirming customer details such as property location or contact information.",
+    "Effective Troubleshooting": "Involves resolving issues or providing clear next steps related to residential units.",
+    "Professional Upselling": "Suggesting relevant upgrades or additional services, such as premium units or furnishing options.",
+
+    "Greeting": "Assesses whether the agent greeted the caller professionally and warmly at the beginning of the call.",
+    "Closing": "Evaluates whether the agent ended the call on a polite and professional note.",
+    "ActiveListening": "Checks if the agent acknowledged the caller's concerns, asked questions, or summarized key points.",
+    "VoiceTone": "Determines if the agent used a friendly, confident, and appropriate tone.",
+    "PhoneEtiquette": "Ensures the agent avoided interruptions, was polite, and maintained clear communication.",
+    "HandllingWay": "Reviews the agent’s ability to address and resolve inquiries efficiently.",
+    "ExtraData": "Checks if the agent collected extra useful information beyond the caller’s request.",
+    "Slangs": "Ensures the agent did not use inappropriate slang or overly casual language.",
+
+    "General Inquiry": "Evaluates if the agent effectively addressed general inquiries about residential units.",
+    "Complaints": "Checks if complaints were resolved; if unresolved, FAIL; if none, N/A.",
+    "Process": "Assesses whether the agent followed proper procedures during the call."
+}
